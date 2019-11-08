@@ -16,6 +16,7 @@ module.exports = {
       plugins: ['react-hooks'],
       env: {
         browser: true,
+        jest: true,
       },
       rules: {
         'no-param-reassign': [
