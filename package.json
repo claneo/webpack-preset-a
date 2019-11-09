@@ -3,6 +3,9 @@
   "version": "1.1.0",
   "license": "MIT",
   "author": "claneo",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "dependencies": {
     "@types/jest": "^24.0.22",
     "@types/node": "^12.12.7",
