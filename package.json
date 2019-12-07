@@ -4,7 +4,8 @@
   "license": "MIT",
   "author": "claneo",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "dependencies": {
     "@types/jest": "^24.0.22",
