@@ -8,6 +8,9 @@
     "access": "public"
   },
   "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
     "@types/jest": "^24.0.22",
     "@types/node": "^12.12.7",
     "@types/react": "^16.9.11",
